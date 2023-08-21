@@ -1,7 +1,7 @@
 # Live-chat-App
 It is an scalable Realtime Chatting Application that provides an interface for multiple user chatting at the same time.
 FrontEnd Technologies- HTML, CSS
-BackEnd Technologies- JavaScript, Node.js
+BackEnd Technologies- JavaScript, Node.js 
 Used Socket.io module for a two-way connection between client and server.
 FrontEnd includes a navigation bar, Chat window and a form submit button for sending the messages.
 HTML has been used for preparing the structure of application.
